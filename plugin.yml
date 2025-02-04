@@ -2,7 +2,7 @@ name: NexusOPFactions
 main: Xekvern\Core\Nexus
 load: POSTWORLD
 version: 1.0.0
-api: 5.0.0
+api: 5.12.0
 authors:
   - Xekvern
 description: A OP factions core for NexusPE
